@@ -1,0 +1,17 @@
+{
+  "name": "artist-lounge-app",
+  "version": "1.0.0",
+  "description": "A sharing platform for criative and artists.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Kelson Martins",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "body": "^5.1.0",
+    "formidable": "^1.2.2"
+  }
+}
