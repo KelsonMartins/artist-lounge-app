@@ -10,7 +10,7 @@
   "author": "Kelson Martins",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.26.0",
+    "axios": "^1.2.2",
     "body": "^5.1.0",
     "formidable": "^2.0.1"
   }
